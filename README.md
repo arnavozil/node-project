@@ -1,7 +1,7 @@
 ﻿# Setup:
 npm install
 
-## Run on local:
+# Run on local:
 npm run watch
 
 ## Run in production:
